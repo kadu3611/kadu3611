@@ -24,6 +24,6 @@ href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadu3611&show_icons=true&locale=en&layout=compact" alt="kadu3611" /></p>
 
-<p>&nbsp;<img  width="420" height="350" align="right" src="https://github-readme-stats.vercel.app/api?username=kadu3611&show_icons=true&locale=en" alt="kadu3611" /></p>
+<p>&nbsp;<img  width="680" height="550" align="right" src="https://github-readme-stats.vercel.app/api?username=kadu3611&show_icons=true&locale=en" alt="kadu3611" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadu3611&" alt="kadu3611" /></p>

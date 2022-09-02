@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Carlos Eduardo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadu3611&label=Profile%20views&color=0e75b6&style=flat" alt="kadu3611" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadu3611" alt="kadu3611" /></a> </p>
-
 - 🔭 I’m currently working on **studying programming at Trybe**
 
 - 🌱 I’m currently learning **Docker, Database with SQL, Sequelize and other technologies to prepare me for the full stack**

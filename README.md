@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **studying programming at Trybe**
 
-- 🌱 I’m currently learning **Docker, Database with SQL, Sequelize and other technologies to prepare me for the full stack**
+- 🌱 I’m currently learning **Typescript and other technologies to prepare me for the full stack**
 
 - 👯 I’m looking to collaborate on **actively in activities. I consider myself good at group activities, I try to be participatory and available**
 

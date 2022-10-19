@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Profile!" />
+<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Hi,+I'm+Carlos+Eduardo" />
 
 <h1 align="center">Hi, I'm Carlos Eduardo</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>

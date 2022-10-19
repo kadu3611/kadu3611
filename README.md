@@ -1,5 +1,7 @@
+<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Profile!" />
+
 <h1 align="center">Hi, I'm Carlos Eduardo</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **studying programming at Trybe**
 

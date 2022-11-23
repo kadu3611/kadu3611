@@ -1,5 +1,6 @@
-<h1 align="center"><font color="#00008B">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&color=ffffff&size=25&lines=Hi,+I'm+Carlos+Eduardo+=)" />
+<font color="#00008B">
   aleluia
 </font>
 </h1>

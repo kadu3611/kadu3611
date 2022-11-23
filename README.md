@@ -1,6 +1,7 @@
-<h1 align="center" font-color="#000080">
+<font-color="#000080"><h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&color=ffffff&size=25&lines=Hi,+I'm+Carlos+Eduardo+=)" />
 </h1>
+</font-color>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **studying programming at Trybe**

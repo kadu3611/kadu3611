@@ -1,5 +1,6 @@
-<font-color="#000080"><h1 align="center">
+<h1 align="center"><FONT FACE=Arial COLOR="#00AA00">
   <img src="https://readme-typing-svg.herokuapp.com?&color=ffffff&size=25&lines=Hi,+I'm+Carlos+Eduardo+=)" />
+</FONT>
 </h1>
 </font-color>
 <h3 align="center">A passionate full stack developer from Brazil</h3>

@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&color=85b0bd&size=25&lines=Hi,+I'm+Carlos+Eduardo+=)" />
 </h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **studying programming at Trybe**
 
-- 🌱 I’m currently learning **Typescript and other technologies to prepare me for the full stack**
+- 🌱 I’m currently learning **Python and other technologies**
 
 - 👯 I’m looking to collaborate on **actively in activities. I consider myself good at group activities, I try to be participatory and available**
 
